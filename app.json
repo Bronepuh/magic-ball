@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "magic-ball",
+    "owner": "bronepuh",
     "slug": "magic-ball",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,9 +23,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/img/magic-ball.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.bronepuh.magicball"
     },
     "web": {
       "favicon": "./assets/favicon.png"
